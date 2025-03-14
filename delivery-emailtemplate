@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<title>
+</title>
+<!--[if !mso]><!-->
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<!--<![endif]-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<!--[if mso]>
+<noscript>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+</noscript>
+<![endif]-->
+<!--[if lte mso 11]>
+<style type="text/css" data-inliner="ignore">
+.mj-outlook-group-fix { width:100% !important; }
+</style>
+<![endif]-->
+<style>a:not([name]) {color:#222427;text-decoration:none}
+a:link {color:#222427;text-decoration:none}
+a:visited {color:#222427;text-decoration:none}
+a:active {color:#222427;text-decoration:none}
+a:hover {color:#222427;text-decoration:none}</style><style>#outlook a {
+padding: 0
+}
+body {
+margin: 0;
+padding: 0;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%
+}
+table, td {
+border-collapse: collapse;
+mso-table-lspace: 0;
+mso-table-rspace: 0
+}
+img {
+border: 0;
+line-height: 100%;
+outline: none;
+text-decoration: none;
+-ms-interpolation-mode: bicubic
+}
+p {
+display: block;
+margin: 13px 0
+}
+@media only screen and (min-width: 480px) {
+.mj-column-per-100 {
+width: 100% !important;
+max-width: 100%
+}
+}
+.moz-text-html .mj-column-per-100 {
+width: 100% !important;
+max-width: 100%
+}
+@media only screen and (max-width: 480px) {
+div.kl-row.colstack div.kl-column {
+display: block !important;
+width: 100% !important
+}
+}
+@media only screen and (max-width: 480px) {
+.component-wrapper .mob-no-spc {
+padding-left: 0 !important;
+padding-right: 0 !important
+}
+}
+.kl-button a {
+display: block !important
+}
+@media only screen and (max-width: 480px) {
+td.kl-img-base-auto-width {
+width: 100% !important
+}
+}
+@media screen and (max-width: 480px) {
+.kl-sl-stk {
+display: block !important;
+width: 100% !important;
+padding: 0 0 9px !important;
+text-align: center !important
+}
+.kl-sl-stk.lbls {
+padding: 0 !important
+}
+.kl-sl-stk.spcblk {
+display: none !important
+}
+}
+@media only screen and (max-width: 480px) {
+table.mj-full-width-mobile {
+width: 100% !important
+}
+td.mj-full-width-mobile {
+width: auto !important
+}
+}
+img {
+border: 0;
+height: auto;
+line-height: 100%;
+outline: none;
+text-decoration: none;
+max-width: 100%
+}
+.root-container {
+background-repeat: repeat !important;
+background-size: auto !important;
+background-position: left top !important
+}
+.root-container-spacing {
+padding-top: 50px !important;
+padding-bottom: 20px !important;
+font-size: 0 !important
+}
+.content-padding {
+padding-left: 0 !important;
+padding-right: 0 !important
+}
+.content-padding.first {
+padding-top: 0 !important
+}
+.content-padding.last {
+padding-bottom: 0 !important
+}
+@media only screen and (max-width: 480px) {
+td.mobile-only {
+display: table-cell !important
+}
+div.mobile-only {
+display: block !important
+}
+table.mobile-only {
+display: table !important
+}
+.desktop-only {
+display: none !important
+}
+}
+@media only screen and (max-width: 480px) {
+.table-mobile-only {
+display: table-cell !important;
+max-height: none !important
+}
+.table-mobile-only.block {
+display: block !important
+}
+.table-mobile-only.inline-block {
+display: inline-block !important
+}
+.table-desktop-only {
+max-height: 0 !important;
+display: none !important;
+mso-hide: all !important;
+overflow: hidden !important
+}
+}
+p {
+margin-left: 0;
+margin-right: 0;
+margin-top: 0;
+margin-bottom: 0;
+padding-bottom: 1em
+}
+@media only screen and (max-width: 480px) {
+body.mce-content-body, /* NOTE: needed for internal tinymce styles */.kl-text > div, .kl-table-subblock div, .kl-split-subblock > div {
+font-size: 14px !important;
+line-height: 1.3 !important
+}
+}
+h1 {
+color: #222427;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0;
+margin: 0;
+margin-bottom: 16px;
+text-align: center
+}
+@media only screen and (max-width: 480px) {
+h1 {
+font-size: 40px !important;
+line-height: 1.1 !important
+}
+}
+h2 {
+color: #222427;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.1;
+letter-spacing: 0;
+margin: 0;
+margin-bottom: 16px;
+text-align: left
+}
+@media only screen and (max-width: 480px) {
+h2 {
+font-size: 32px !important;
+line-height: 1.1 !important
+}
+}
+h3 {
+color: #222427;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.1;
+letter-spacing: 0;
+margin: 0;
+margin-bottom: 12px;
+text-align: left
+}
+@media only screen and (max-width: 480px) {
+h3 {
+font-size: 24px !important;
+line-height: 1.1 !important
+}
+}
+h4 {
+color: #222427;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.1;
+letter-spacing: 0;
+margin: 0;
+margin-bottom: 9px;
+text-align: left
+}
+@media only screen and (max-width: 480px) {
+h4 {
+font-size: 18px !important;
+line-height: 1.1 !important
+}
+}
+@media only screen and (max-width: 480px) {
+.root-container {
+width: 100% !important
+}
+.root-container-spacing {
+padding: 10px !important
+}
+.content-padding {
+padding-left: 0 !important;
+padding-right: 0 !important
+}
+.content-padding.first {
+padding-top: 0 !important
+}
+.content-padding.last {
+padding-bottom: 0 !important
+}
+.kl-column > .component-wrapper {
+padding-left: 0 !important;
+padding-right: 0 !important;
+width: unset !important
+}
+.kl-text {
+padding-right: 18px !important;
+padding-left: 18px !important
+}
+}</style></head>
+<body style="word-spacing:normal;background-color:#F7F7F7;">
+<!-- TRACKING_PIXEL_TOP -->
+<div class="root-container" id="bodyTable" style="background-color:#F7F7F7;">
+<div class="root-container-spacing">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section" role="presentation" style="width:100%;">
+<tbody>
+<tr>
+<td>
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+<tbody>
+<tr>
+<td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#087D46" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#087D46 url(https://d3k81ch9hvuctc.cloudfront.net/company/Yz3Z7q/images/1dc19fab-3925-4da9-8432-f7ba900c3db5.png) center bottom / cover no-repeat;background-position:center bottom;background-repeat:no-repeat;background-size:cover;margin:0px auto;border-radius:0px 0px 0px 0px;max-width:600px;">
+<div style="line-height:0;font-size:0;">
+<table align="center" background="https://d3k81ch9hvuctc.cloudfront.net/company/Yz3Z7q/images/1dc19fab-3925-4da9-8432-f7ba900c3db5.png" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#087D46 url(https://d3k81ch9hvuctc.cloudfront.net/company/Yz3Z7q/images/1dc19fab-3925-4da9-8432-f7ba900c3db5.png) center bottom / cover no-repeat;background-position:center bottom;background-repeat:no-repeat;background-size:cover;width:100%;border-radius:0px 0px 0px 0px;">
+<tbody>
+<tr>
+<td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:30px;padding-left:0px;padding-right:0px;padding-top:20px;text-align:center;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><![endif]-->
+<div class="content-padding first">
+<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
+<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
+<!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
+<div class="kl-column" style="display:table-cell;vertical-align:top;width:100%;">
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="" style="vertical-align:top;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-text" style="font-size:0px;padding:0px;padding-top:0px;padding-right:40px;padding-bottom:24px;padding-left:40px;word-break:break-word;">
+<div style="font-family:Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:0px;line-height:1.5;text-align:center;color:#222427;"><div style="line-height: 400%;"><span style="font-family: Helvetica, Arial, sans-serif; font-weight: 400; font-style: normal;"><span style="line-height: 100%; letter-spacing: 2px;"><span style="font-size: 96px;"><span style="color: #ffffff;"><span style="font-size: 18px;"><span style="color: rgb(255, 255, 255);">For a limited time, take</span><br/></span></span></span></span><span style="color: rgb(255, 255, 255);"><span style="font-size: 96px; letter-spacing: 2px;">20%</span></span></span></div>
+<div style="line-height: 150%;"><span style="color: rgb(249, 250, 251); font-family: Helvetica, Arial, sans-serif; font-weight: 400; font-style: normal;">off all delivery orders. Relax with dinner at home at a great price</span></div></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if true]></td><![endif]-->
+</div>
+<!--[if true]></tr></table><![endif]-->
+<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
+<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
+<!--[if true]><td style="vertical-align:top;width:300px;"><![endif]-->
+<div class="kl-column" style="display:table-cell;vertical-align:top;width:50%;">
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-button" style="font-size:0px;padding:0px;word-break:break-word;" vertical-align="middle">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;width:100%;line-height:100%;">
+<tr>
+<td align="center" bgcolor="#B5DDF3" role="presentation" style="border:none;border-bottom:solid 2px #1A1A1A;border-left:solid 2px #1A1A1A;border-radius:40px;border-right:solid 2px #1A1A1A;border-top:solid 2px #1A1A1A;cursor:auto;font-style:normal;mso-padding-alt:16px 0px 16px 0px;background:#B5DDF3;" valign="middle">
+<a href="https://example.com" style="color:#1A1A1A; text-decoration:none; display:inline-block; background:#B5DDF3; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-style:normal; font-weight:700; line-height:100%; letter-spacing:0; margin:0; text-transform:none; padding:16px 0 16px 0; mso-padding-alt:0; border-radius:40px" target="_blank">
+Book a time
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if true]></td><![endif]-->
+<!--[if true]><td style="vertical-align:top;width:300px;"><![endif]-->
+<div class="kl-column" style="display:table-cell;vertical-align:top;width:50%;">
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="" style="vertical-align:top;padding-top:9px;padding-right:18px;padding-bottom:9px;padding-left:18px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-button" style="font-size:0px;padding:0px;word-break:break-word;" vertical-align="middle">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;width:100%;line-height:100%;">
+<tr>
+<td align="center" bgcolor="#FFFFFF" role="presentation" style="border:none;border-bottom:solid 2px #1A1A1A;border-left:solid 2px #1A1A1A;border-radius:40px;border-right:solid 2px #1A1A1A;border-top:solid 2px #1A1A1A;cursor:auto;font-style:normal;mso-padding-alt:16px 0px 16px 0px;background:#FFFFFF;" valign="middle">
+<a href="https://example.com" style="color:#1A1A1A; text-decoration:none; display:inline-block; background:#FFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-style:normal; font-weight:700; line-height:100%; letter-spacing:0; margin:0; text-transform:none; padding:16px 0 16px 0; mso-padding-alt:0; border-radius:40px" target="_blank">
+Delivery soon
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if true]></td><![endif]-->
+</div>
+<!--[if true]></tr></table><![endif]-->
+</div>
+<!--[if mso | IE]></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if mso | IE]></td></tr></table></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section" role="presentation" style="width:100%;">
+<tbody>
+<tr>
+<td>
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="kl-section-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+<tbody>
+<tr>
+<td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#B5DDF3" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#B5DDF3 url(https://d3k81ch9hvuctc.cloudfront.net/company/Yz3Z7q/images/16cd8ebd-15b0-4a0a-9f9b-c37a95606bb0.jpeg) right top / cover no-repeat;background-position:right top;background-repeat:no-repeat;background-size:cover;margin:0px auto;border-radius:0px 0px 0px 0px;max-width:600px;">
+<div style="line-height:0;font-size:0;">
+<table align="center" background="https://d3k81ch9hvuctc.cloudfront.net/company/Yz3Z7q/images/16cd8ebd-15b0-4a0a-9f9b-c37a95606bb0.jpeg" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#B5DDF3 url(https://d3k81ch9hvuctc.cloudfront.net/company/Yz3Z7q/images/16cd8ebd-15b0-4a0a-9f9b-c37a95606bb0.jpeg) right top / cover no-repeat;background-position:right top;background-repeat:no-repeat;background-size:cover;width:100%;border-radius:0px 0px 0px 0px;">
+<tbody>
+<tr>
+<td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-top:0px;text-align:center;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><![endif]-->
+<div class="content-padding">
+<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
+<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
+<!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
+<div class="kl-column" style="display:table-cell;vertical-align:top;width:100%;">
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="" style="background-color:#FFFFFF;vertical-align:top;padding-top:8px;padding-right:0px;padding-bottom:8px;padding-left:0px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-text" style="background:#FFFFFF;font-size:0px;padding:0px;padding-top:20px;padding-right:40px;padding-bottom:0px;padding-left:40px;word-break:break-word;">
+<div style="font-family:Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:0px;line-height:1.5;text-align:center;color:#222427;"><h1 style="letter-spacing: 0px; text-align: center;">Break up the dinner routine</h1>
+<div style="text-align: left;">
+<p class="p1" style="padding-bottom:0; text-align:center">Whether you want a family vacation, a charming romantic dinner or an exciting colorful party, our special menu will satisfy every gourmet's desires.</p>
+</div></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="mob-no-spc" style="vertical-align:top;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-image" style="font-size:0px;word-break:break-word;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;">
+<tbody>
+<tr>
+<td class="kl-img-base-auto-width" style="border:0;padding:0px 0px 0px 0px;width:600px;" valign="top">
+<img src="https://d3k81ch9hvuctc.cloudfront.net/company/Pb3wug/images/82637a80-d0c8-42f2-b305-16d0130d1ed1.png" style="display:block;outline:none;text-decoration:none;height:auto;font-size:13px;width:100%;" width="600"/>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if true]></td><![endif]-->
+</div>
+<!--[if true]></tr></table><![endif]-->
+<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
+<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
+<!--[if true]><td style="vertical-align:top;width:300px;"><![endif]-->
+<div class="kl-column" style="display:table-cell;vertical-align:top;width:50%;">
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="mob-no-spc" style="vertical-align:top;padding-top:8px;padding-right:10px;padding-bottom:8px;padding-left:40px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-image" style="font-size:0px;word-break:break-word;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;">
+<tbody>
+<tr>
+<td class="" style="border:0;padding:0px 0px 0px 0px;width:250px;" valign="top">
+<img src="https://d3k81ch9hvuctc.cloudfront.net/company/Yz3Z7q/images/6d604c38-b398-4647-9569-21bbe5a40435.png" style="display:block;outline:none;text-decoration:none;height:auto;font-size:13px;width:100%;" width="250"/>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if true]></td><![endif]-->
+<!--[if true]><td style="vertical-align:top;width:300px;"><![endif]-->
+<div class="kl-column" style="display:table-cell;vertical-align:top;width:50%;">
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="mob-no-spc" style="vertical-align:top;padding-top:8px;padding-right:40px;padding-bottom:8px;padding-left:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-image" style="font-size:0px;word-break:break-word;">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;">
+<tbody>
+<tr>
+<td class="" style="border:0;padding:0px 0px 0px 0px;width:250px;" valign="top">
+<img src="https://d3k81ch9hvuctc.cloudfront.net/company/Yz3Z7q/images/f6cda111-08a9-42db-b778-6214ec24ea4a.png" style="display:block;outline:none;text-decoration:none;height:auto;font-size:13px;width:100%;" width="250"/>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if true]></td><![endif]-->
+</div>
+<!--[if true]></tr></table><![endif]-->
+<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
+<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
+<!--[if true]><td style="vertical-align:top;width:600px;"><![endif]-->
+<div class="kl-column" style="display:table-cell;vertical-align:top;width:100%;">
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="" style="vertical-align:top;padding-top:8px;padding-right:0px;padding-bottom:8px;padding-left:0px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-text" style="font-size:0px;padding:0px;padding-top:8px;padding-right:40px;padding-bottom:0px;padding-left:40px;word-break:break-word;">
+<div style="font-family:Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:0px;line-height:1.5;text-align:center;color:#222427;"><div style="text-align: left;">
+<p class="p1" style="padding-bottom:0; text-align:center"><span style="color: rgb(255, 255, 255);">Discount: 20% on all orders with delivery by the end of the week</span></p>
+</div></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="" style="vertical-align:top;padding-top:16px;padding-right:40px;padding-bottom:16px;padding-left:40px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-button" style="font-size:0px;padding:0px;word-break:break-word;" vertical-align="middle">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;line-height:100%;">
+<tr>
+<td align="center" bgcolor="#FFFFFF" role="presentation" style="border:none;border-bottom:solid 2px #1A1A1A;border-left:solid 2px #1A1A1A;border-radius:40px;border-right:solid 2px #1A1A1A;border-top:solid 2px #1A1A1A;cursor:auto;font-style:normal;mso-padding-alt:16px 30px 16px 30px;background:#FFFFFF;" valign="middle">
+<a href="https://example.com" style="color:#1A1A1A; text-decoration:none; display:inline-block; background:#FFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-style:normal; font-weight:700; line-height:100%; letter-spacing:0; margin:0; text-transform:none; padding:16px 30px 16px 30px; mso-padding-alt:0; border-radius:40px" target="_blank">
+View the menu
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="mob-no-spc" style="vertical-align:top;padding-top:24px;padding-right:40px;padding-bottom:8px;padding-left:40px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+<p style="padding-bottom:0; border-top:solid 1px #FFF; font-size:1px; margin:0 auto; width:100%">
+</p>
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #FFFFFF;font-size:1px;margin:0px auto;width:520px;" role="presentation" width="520px" ><tr><td style="height:0;line-height:0;"> &nbsp;
+</td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if true]></td><![endif]-->
+</div>
+<!--[if true]></tr></table><![endif]-->
+<!--[if true]><table border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px;direction:ltr"><tr><![endif]-->
+<div class="kl-row colstack" style="display:table;table-layout:fixed;width:100%;">
+<!--[if true]><td style="vertical-align:top;width:300px;"><![endif]-->
+<div class="kl-column" style="display:table-cell;vertical-align:top;width:50%;">
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="mob-no-spc" style="vertical-align:top;padding-top:0px;padding-right:0px;padding-bottom:20px;padding-left:0px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td align="center" class="kl-text" style="font-size:0px;padding:0px;padding-top:8px;padding-right:5px;padding-bottom:8px;padding-left:36px;word-break:break-word;">
+<div style="font-family:Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;letter-spacing:0px;line-height:1.5;text-align:center;color:#222427;"><div style="text-align: center;">
+<a href="mailto:restaurant@11mirrors-hotel.com?subject=Написати%20нам" style="color:rgb(255, 255, 255); text-decoration:none; font-size:12px; font-family:Helvetica, Arial, sans-serif; font-weight:400">
+restaurant@11mirrors-hotel.com
+</a>
+</div>
+<div style="text-align: center;">
+<a href="tel:+380445810011" style="color:rgb(255, 255, 255); text-decoration:none; font-size:12px; font-family:Helvetica, Arial, sans-serif; font-weight:400">
++38 044 581 00 11
+</a>
+</div>
+<div style="text-align: center;">
+<a href="tel:+380505811111" style="color:rgb(255, 255, 255); text-decoration:none; font-size:12px; font-family:Helvetica, Arial, sans-serif; font-weight:400">
++38 050 581 11 11
+</a>
+</div></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if true]></td><![endif]-->
+<!--[if true]><td style="vertical-align:top;width:300px;"><![endif]-->
+<div class="kl-column" style="display:table-cell;vertical-align:top;width:50%;">
+<div class="mj-column-per-100 mj-outlook-group-fix component-wrapper" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;" width="100%">
+<tbody>
+<tr>
+<td class="" style="vertical-align:top;padding-top:31px;padding-right:0px;padding-bottom:24px;padding-left:0px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+<tbody>
+<tr>
+<td>
+<div style="width:100%;text-align:center">
+<!--[if true]><table style="all:unset;opacity:0;" border="0" cellpadding="0" cellspacing="0" ><tr><![endif]-->
+<!--[if !true]><!--><div class="" style="display:inline-block;padding-right:40px;"><!--<![endif]-->
+<!--[if true]><td style="padding-right:40px;"><![endif]-->
+<div style="text-align: center;">
+<a href="https://www.twitter.com" style="color:#222427; text-decoration:none" target="_blank">
+<img alt="Twitter" src="https://d3k81ch9hvuctc.cloudfront.net/assets/email/buttons/subtleinverse/twitter_96.png" style="width:32px;" width="32"/>
+</a>
+</div>
+<!--[if true]></td><![endif]-->
+<!--[if !true]><!--></div><!--<![endif]-->
+<!--[if !true]><!--><div class="" style="display:inline-block;padding-right:40px;"><!--<![endif]-->
+<!--[if true]><td style="padding-right:40px;"><![endif]-->
+<div style="text-align: center;">
+<a href="https://www.facebook.com" style="color:#222427; text-decoration:none" target="_blank">
+<img alt="Facebook" src="https://d3k81ch9hvuctc.cloudfront.net/assets/email/buttons/subtleinverse/facebook_96.png" style="width:32px;" width="32"/>
+</a>
+</div>
+<!--[if true]></td><![endif]-->
+<!--[if !true]><!--></div><!--<![endif]-->
+<!--[if !true]><!--><div class="" style="display:inline-block;"><!--<![endif]-->
+<!--[if true]><td style=""><![endif]-->
+<div style="text-align: center;">
+<a href="https://www.instagram.com" style="color:#222427; text-decoration:none" target="_blank">
+<img alt="Instagram" src="https://d3k81ch9hvuctc.cloudfront.net/assets/email/buttons/subtleinverse/instagram_96.png" style="width:32px;" width="32"/>
+</a>
+</div>
+<!--[if true]></td><![endif]-->
+<!--[if !true]><!--></div><!--<![endif]-->
+<!--[if true]></tr></table><![endif]-->
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if true]></td><![endif]-->
+</div>
+<!--[if true]></tr></table><![endif]-->
+</div>
+<!--[if mso | IE]></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!--[if mso | IE]></td></tr></table></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+<tbody>
+<tr>
+<td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;width:100%;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="klBranding" style="font-size:0px;padding:25px 0;word-break:break-word;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+<tbody>
+<tr>
+<td style="width:122px;">
+<a href="https://www.klaviyo.com/?utm_medium=freebie&amp;utm_source=brand&amp;utm_term=Yz3Z7q" style="color:#222427; text-decoration:none" target="_blank">
+<img alt="Powered by Klaviyo" height="50" src="https://d3k81ch9hvuctc.cloudfront.net/assets/email/branding/klaviyo-branding-option-3.png" style="border:0;display:block;outline:none;text-decoration:none;height:50px;width:100%;font-size:13px;" width="122"/>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]-->
+</div>
+</div>
+<!-- TRACKING_PIXEL_BOTTOM -->
+</body>
+</html>
